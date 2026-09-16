@@ -4,6 +4,6 @@ Course material for Linear Optimization, taught by Prof. Sobhan Babu, CSE Dept, 
 
 ## Contents
 
-- `LO.pdf`, `LO_1.pdf` — Lecture notes / slides
+- `LO.pdf`, `LO_1.pdf` — Self-made handwritten lecture notes (may contain errors)
 - `LO Assignment Questions.pdf` — Assignment questions
 - `Assignment_1` to `Assignment_5` — Assignment solutions (Jupyter notebooks), covering the Geometric Simplex Algorithm, Primal-Dual Algorithm for Minimum Weight Perfect Matching, and Min-Cost Max-Flow via the Simplex Method

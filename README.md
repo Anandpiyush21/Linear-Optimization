@@ -1,9 +1,9 @@
 # Linear Optimization
 
-Course material for Linear Optimization, taught by Prof. Sobhan Babu, CSE Dept, IIT Hyderabad.
+Course material for Linear Optimization, taught by Prof. Sobhan Babu, CSE Dept, IIT Hyderabad. Offered July–November 2025.
 
 ## Contents
 
 - `LO.pdf`, `LO_1.pdf` — Lecture notes / slides
 - `LO Assignment Questions.pdf` — Assignment questions
-- `Assignment_1` to `Assignment_5` — Assignment solutions (Jupyter notebooks)
+- `Assignment_1` to `Assignment_5` — Assignment solutions (Jupyter notebooks), covering the Geometric Simplex Algorithm, Primal-Dual Algorithm for Minimum Weight Perfect Matching, and Min-Cost Max-Flow via the Simplex Method

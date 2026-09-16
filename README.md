@@ -8,9 +8,9 @@ Assignment submissions for CS5040, covering the simplex method and its applicati
 
 | # | Topic | Notebook |
 |---|-------|----------|
-| 1 | Geometric Simplex Algorithm | [Assignment Solutions/Assignment_1_CS25MTECH12009.ipynb](Assignment%20Solutions/Assignment_1_CS25MTECH12009.ipynb) |
-| 2 | Geometric Simplex Algorithm (relaxed assumptions) | [Assignment Solutions/Assignment_2_CS25MTECH12009.ipynb](Assignment%20Solutions/Assignment_2_CS25MTECH12009.ipynb) |
-| 3 | Geometric Simplex Algorithm (initial feasible point not given) | [Assignment Solutions/Assignment_3_CS25MTECH12009.ipynb](Assignment%20Solutions/Assignment_3_CS25MTECH12009.ipynb) |
+| 1 | Geometric Simplex Algorithm | [Assignment Solutions/Assignment_1.ipynb](Assignment%20Solutions/Assignment_1.ipynb) |
+| 2 | Geometric Simplex Algorithm (relaxed assumptions) | [Assignment Solutions/Assignment_2.ipynb](Assignment%20Solutions/Assignment_2.ipynb) |
+| 3 | Geometric Simplex Algorithm (initial feasible point not given) | [Assignment Solutions/Assignment_3.ipynb](Assignment%20Solutions/Assignment_3.ipynb) |
 | 4 | Primal–Dual Algorithm for Minimum Weight Perfect Matching | [Assignment Solutions/Assignment_4.ipynb](Assignment%20Solutions/Assignment_4.ipynb) |
 | 5 | Min-Cost Max-Flow using the Geometric Simplex Method | [Assignment Solutions/Assignment_5.ipynb](Assignment%20Solutions/Assignment_5.ipynb) |
 

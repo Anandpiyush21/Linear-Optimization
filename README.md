@@ -1,6 +1,6 @@
 # Linear Optimization
 
-Course material for Linear Optimization, taught by Prof. Sobhan Babu, CSE Dept, IIT Hyderabad. Offered July–November 2025.
+Course material for Linear Optimization (CS5040), taught by Prof. Sobhan Babu, CSE Dept, IIT Hyderabad. Offered July–November 2025.
 
 ## Contents
 
